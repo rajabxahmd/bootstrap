@@ -1,0 +1,18 @@
+.btn{
+    position: relative;
+}
+
+.btnloading .btn-txt{
+   visibility: hidden;
+   opacity: 0;
+}
+
+.loading-icon{
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
